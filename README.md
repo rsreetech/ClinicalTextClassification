@@ -17,6 +17,7 @@ This data was scraped from mtsamples.com
 The task is to correcrtly classify the medical specialties based on the transcription text
 
 Here is the disctibution of samples in the dataset per medical specilaty
+
 Number of sentences in transcriptions column: 140214
 Number of unique words in transcriptions column: 35822
 ===========Original Categories =======================
